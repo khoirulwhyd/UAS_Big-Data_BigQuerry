@@ -1,0 +1,4 @@
+Menghubungkan Google BigQuery dengan Data Studio #3 BigQuery
+https://www.youtube.com/watch?v=X0cdS40oOps
+
+
